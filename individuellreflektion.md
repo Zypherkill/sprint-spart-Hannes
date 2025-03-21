@@ -8,7 +8,7 @@ Svara på var och en av frågorna nedan individuellt (minst 100 tecken per fråg
 
 #### Vad var ditt mål med projektet initialt?
 
-(insert answer here...)
+Mitt invididuella mål var att det skulle vara roligt och att få ett bättre grepp på javascript, och det kändes som att det skulle bli roligt med den gruppen vi skapat.
 
 #### Vad var din känsla inför att arbeta i ett team när du gick in i uppgiften?
 
