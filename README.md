@@ -1,1 +1,1 @@
-[# sprint-spart-Hannes](https://github.com/Zypherkill/Sprint-Spartans)
+https://github.com/Zypherkill/Sprint-Spartans
